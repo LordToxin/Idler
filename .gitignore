@@ -1,0 +1,6 @@
+*.log
+*.lock
+state.json
+__pycache__/
+*.pyc
+.vscode/
